@@ -1,0 +1,1 @@
+cmd_drivers/i2c/chips/built-in.o :=  /home/zardoz/android/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o drivers/i2c/chips/built-in.o drivers/i2c/chips/akm8975.o drivers/i2c/chips/r3gd20.o drivers/i2c/chips/bma250.o drivers/i2c/chips/pn544.o drivers/i2c/chips/cm3629.o 

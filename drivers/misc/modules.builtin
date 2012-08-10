@@ -1,0 +1,5 @@
+kernel/drivers/misc/pm8xxx-vibrator.ko
+kernel/drivers/misc/pm8xxx-vibrator-pwm.ko
+kernel/drivers/misc/tzcom.ko
+kernel/drivers/misc/mpu3050/mpu3050.ko
+kernel/drivers/misc/mpu3050/timerirq.ko

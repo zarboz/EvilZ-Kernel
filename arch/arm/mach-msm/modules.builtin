@@ -1,0 +1,8 @@
+kernel/arch/arm/mach-msm/pil-q6v4.ko
+kernel/arch/arm/mach-msm/pil-riva.ko
+kernel/arch/arm/mach-msm/lpass-8960.ko
+kernel/arch/arm/mach-msm/wcnss-ssr-8960.ko
+kernel/arch/arm/mach-msm/htc_headset_mgr.ko
+kernel/arch/arm/mach-msm/htc_headset_pmic.ko
+kernel/arch/arm/mach-msm/rpm_stats.ko
+kernel/arch/arm/mach-msm/rpm_log.ko

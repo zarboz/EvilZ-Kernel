@@ -1,0 +1,2 @@
+kernel/drivers/leds/leds-pm8xxx.ko
+kernel/drivers/leds/tps61310_flashlight.ko

@@ -1,0 +1,5 @@
+kernel/sound/soc/snd-soc-core.ko
+kernel/sound/soc/codecs/snd-soc-wcd9310.ko
+kernel/sound/soc/codecs/snd-soc-msm-stub.ko
+kernel/sound/soc/msm/snd-soc-qdsp6.ko
+kernel/sound/soc/msm/snd-soc-hostless-pcm.ko

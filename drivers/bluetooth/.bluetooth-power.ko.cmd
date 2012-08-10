@@ -1,0 +1,1 @@
+cmd_drivers/bluetooth/bluetooth-power.ko := /home/zardoz/android/arm-eabi-4.4.3/bin/arm-eabi-ld -EL -r  -T /home/zardoz/EvilZTestbranch/scripts/module-common.lds --build-id  -o drivers/bluetooth/bluetooth-power.ko drivers/bluetooth/bluetooth-power.o drivers/bluetooth/bluetooth-power.mod.o

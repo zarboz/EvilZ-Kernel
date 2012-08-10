@@ -1,0 +1,3 @@
+kernel/drivers/hwmon/hwmon.ko
+kernel/drivers/hwmon/pm8xxx-adc.ko
+kernel/drivers/hwmon/pm8xxx-adc-scale.ko

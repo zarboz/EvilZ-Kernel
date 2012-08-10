@@ -1,0 +1,1 @@
+cmd_drivers/input/evbug.ko := /home/zardoz/android/arm-eabi-4.4.3/bin/arm-eabi-ld -EL -r  -T /home/zardoz/EvilZTestbranch/scripts/module-common.lds --build-id  -o drivers/input/evbug.ko drivers/input/evbug.o drivers/input/evbug.mod.o

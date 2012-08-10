@@ -1,0 +1,1 @@
+cmd_drivers/crypto/msm/qcrypto.ko := /home/zardoz/android/arm-eabi-4.4.3/bin/arm-eabi-ld -EL -r  -T /home/zardoz/EvilZTestbranch/scripts/module-common.lds --build-id  -o drivers/crypto/msm/qcrypto.ko drivers/crypto/msm/qcrypto.o drivers/crypto/msm/qcrypto.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/power/built-in.o :=  /home/zardoz/android/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o drivers/power/built-in.o drivers/power/power_supply.o drivers/power/pm8xxx-ccadc.o drivers/power/pm8921-bms.o drivers/power/pm8921-charger-htc.o 

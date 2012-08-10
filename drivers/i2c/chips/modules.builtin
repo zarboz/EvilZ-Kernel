@@ -1,0 +1,5 @@
+kernel/drivers/i2c/chips/akm8975.ko
+kernel/drivers/i2c/chips/r3gd20.ko
+kernel/drivers/i2c/chips/bma250.ko
+kernel/drivers/i2c/chips/pn544.ko
+kernel/drivers/i2c/chips/cm3629.ko

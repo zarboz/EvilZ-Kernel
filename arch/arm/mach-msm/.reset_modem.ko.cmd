@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-msm/reset_modem.ko := /home/zardoz/android/arm-eabi-4.4.3/bin/arm-eabi-ld -EL -r  -T /home/zardoz/EvilZTestbranch/scripts/module-common.lds --build-id  -o arch/arm/mach-msm/reset_modem.ko arch/arm/mach-msm/reset_modem.o arch/arm/mach-msm/reset_modem.mod.o

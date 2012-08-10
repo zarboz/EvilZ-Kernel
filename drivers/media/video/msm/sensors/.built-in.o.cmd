@@ -1,0 +1,1 @@
+cmd_drivers/media/video/msm/sensors/built-in.o :=  /home/zardoz/android/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o drivers/media/video/msm/sensors/built-in.o drivers/media/video/msm/sensors/msm_sensor.o drivers/media/video/msm/sensors/s5k3h2yx_v4l2.o drivers/media/video/msm/sensors/s5k6a1gx_v4l2.o 

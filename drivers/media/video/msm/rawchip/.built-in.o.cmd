@@ -1,0 +1,1 @@
+cmd_drivers/media/video/msm/rawchip/built-in.o :=  /home/zardoz/android/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o drivers/media/video/msm/rawchip/built-in.o drivers/media/video/msm/rawchip/rawchip_spi.o drivers/media/video/msm/rawchip/rawchip.o drivers/media/video/msm/rawchip/Yushan_API.o drivers/media/video/msm/rawchip/yushan_reg.o 
