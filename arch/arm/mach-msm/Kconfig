@@ -2275,6 +2275,24 @@ config MSM_CACHE_DUMP
 	  This allows for analysis of the caches in case cache corruption is
 	  suspected.
 
+config MSM_CPU_MAX_CLK_2DOT1GHZ
+	bool "CPU Max 2.1Ghz clk support"
+	default n
+	help
+	  To support the Max 2.1Ghz.
+
+config MSM_CPU_MAX_CLK_1DOT89GHZ
+	bool "CPU Max 1.89Ghz clk support"
+	default n
+	help
+	  To support the Max 1.89Ghz.
+
+config MSM_CPU_MAX_CLK_1DOT5GHZ
+	bool "CPU Max 1.5Ghz clk support"
+	default n
+	help
+	  To support the Max 1.5Ghz.
+
 config ACPU_CUSTOM_FREQ_SUPPORT
 	bool "Custom frequency support"
 	default n
